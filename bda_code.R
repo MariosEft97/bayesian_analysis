@@ -1,6 +1,3 @@
-setwd("D:/Master statistiek/1 master/semester 2/concepts of Bayesian data analysis/Project")
-
-
 library('nimble')
 
 
