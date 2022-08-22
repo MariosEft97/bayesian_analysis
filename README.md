@@ -1,5 +1,5 @@
 ### Project: Bayesian data analysis
 
-2 use cases:
+*nimble* package was used in R to perform Bayesian tehniques in two use cases:
 - dose-response model
 - animal prevalence
